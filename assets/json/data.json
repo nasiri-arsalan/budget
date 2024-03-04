@@ -1,0 +1,23 @@
+{
+  "categories": [
+    {
+      "name": "Auto & Transport",
+      "total": 400,
+      "amount": 88.50,
+      "type": "transport"
+    },
+    {
+      "name": "Entertainment",
+      "total": 600,
+      "amount": 188.50,
+      "type": "entertainment"
+    },
+    {
+      "name": "Security",
+      "total": 500,
+      "amount": 67.50,
+      "type": "security"
+    }
+  ],
+  "budget": 2000
+}
